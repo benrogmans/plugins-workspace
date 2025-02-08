@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.18]
+
+### Dependencies
+
+- Upgraded to `log@2.2.2`
+
 ## \[2.0.17]
 
 ### Dependencies
