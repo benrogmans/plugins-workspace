@@ -47,7 +47,7 @@ notify-rust = "4.11"
 
 [dev-dependencies]
 color-backtrace = "0.6"
-ctor = "0.2"
+ctor = "0.3"
 maplit = "1"
 
 [features]
